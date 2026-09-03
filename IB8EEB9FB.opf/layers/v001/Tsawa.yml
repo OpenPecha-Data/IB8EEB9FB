@@ -1,0 +1,29 @@
+id: fb5ef4ee2e684317bd397cff71a40839
+annotation_type: Tsawa
+revision: '00001'
+annotations:
+  5c43ee740db24cf7b7ffbee457c0906a:
+    span:
+      start: 233674
+      end: 233674
+    isverse: false
+  97607c95ef09496788cf19b9c146f63e:
+    span:
+      start: 233735
+      end: 233735
+    isverse: false
+  8f5fb2e2a17d43209cb1bfe1ad40175f:
+    span:
+      start: 233941
+      end: 233941
+    isverse: false
+  806633425e0a45c98d19f562cdbb1e4f:
+    span:
+      start: 234093
+      end: 234095
+    isverse: false
+local_ids:
+  5c43ee740db24cf7b7ffbee457c0906a: 200000
+  97607c95ef09496788cf19b9c146f63e: 200001
+  8f5fb2e2a17d43209cb1bfe1ad40175f: 200002
+  806633425e0a45c98d19f562cdbb1e4f: 200003

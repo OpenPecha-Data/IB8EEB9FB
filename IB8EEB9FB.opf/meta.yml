@@ -1,0 +1,27 @@
+id: IB8EEB9FB
+initial_creation_type: ebook
+source_metadata:
+  id: NP-01
+  title: ༄༅། །ཟབ་གསང་མཁའ་འགྲོའི་སྙིང་ཐིག་གི་སྔོན་འགྲོའི་ཁྲིད་རིམ་ཐར་ལམ་སྣང་སྒྲོན་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། ༧སྐྱབས་རྗེ་བདུད་འཇོམས་འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་བདུད་འཇོམས་འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ།
+  sku: NP-01
+  cover: Namkhyung-Dilgo-cover_reduced.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཟབ་གསང་མཁའ་འགྲོའི་སྙིང་ཐིག་གི་སྔོན་འགྲོའི་ཁྲིད་རིམ་ཐར་ལམ་སྣང་སྒྲོན་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: NP-01
+  cover: Namkhyung-Dilgo-cover_reduced.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
